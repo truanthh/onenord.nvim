@@ -38,8 +38,10 @@ colors.diff_text_bg = "#C9D7E5"
 
 colors.active = "#EFF0F2"
 colors.float = "#EDEEF0"
-colors.highlight = "#EAEBED"
-colors.highlight_dark = "#DFE1E4"
+-- changed higlight to darker color so i can see selection in terminal
+--colors.highlight = "#EAEBED"
+colors.highlight = "#D6D6D6"
+colors.highlight_dark = "#c9c9c9"
 colors.selection = "#DCDEE1"
 
 return colors
